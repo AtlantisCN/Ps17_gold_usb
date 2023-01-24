@@ -11,7 +11,7 @@ Setting,show design;
 
 design, load
 
-Ps17_gold_usb_via.json
+## Ps17_gold_via.json
 
 configure! enjoy it!
 
